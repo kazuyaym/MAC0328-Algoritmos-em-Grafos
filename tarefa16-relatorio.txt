@@ -1,0 +1,27 @@
+    /*********************************************************/
+    /*                                                       */
+    /*                           Tarefa 16                   */
+    /*      Arquivo: Relatorio16.txt                         */
+    /*      Marcos Kazuya Yamazaki                           */
+    /*      MKY                                              */
+    /*      Numero USP: 7577622                              */
+    /*      Data: 17/05/2013                                 */
+    /*                                                       */
+    /*********************************************************/
+	
+   Fica evidente que o Algoritmo de Prim é executada com uma 
+   consideravel vantagem comparado ao de Kruskal.
+   
+   Usando valores de parametro: 900 9000 1000
+   O tempo para executar 1000 vezes foram de :
+   Prim 0,529 segundos
+   Kruskal 4,712 segundos
+
+   Usando valores de parametro: 900 81000 1000
+   O tempo para executar 1000 vezes foram de :
+   Prim 10,543 segundos
+   Kruskal 58,118 segundos
+   
+   É evidente que quando maior o numero de aresta,
+   maior o tempo que demora.
+   

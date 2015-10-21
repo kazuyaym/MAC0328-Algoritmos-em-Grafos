@@ -1,0 +1,12 @@
+/*********************************************************/
+/*                                                       */
+/*                          TAREFA 11                    */
+/*      Marcos Kazuya Yamazaki                           */
+/*      MKY                                              */
+/*      Numero USP: 7577622                              */
+/*      Data: 19/05/2013                                 */
+/*                                                       */
+/*********************************************************/
+
+Distancia de 0 a 2 sem remocao de arcos: 4
+Nao se pode remover nenhum arco.
